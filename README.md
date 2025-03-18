@@ -33,6 +33,18 @@ Ce projet est une implémentation du jeu Mastermind en langage C. Il permet à u
 
 Voici quelques captures d'écran du jeu pour mieux visualiser l'expérience :
 
+### **Menu principal** : 
+
+![Image](https://github.com/user-attachments/assets/75ca799b-acf1-4ed8-9473-49ad09506528)
+
+### **Partie en cours** :
+
+![Image](https://github.com/user-attachments/assets/bc258014-c342-4f3f-bcfd-54935a463687)
+
+### **Statistiques de jeu** :
+
+![Image](https://github.com/user-attachments/assets/ec2ec2e9-e225-4bc0-93e3-2be895597f7b)
+
 ## 🛠 Installation
 
 Pour jouer à ce jeu sur ton ordinateur local, suis ces étapes :
