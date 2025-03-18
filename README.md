@@ -51,7 +51,7 @@ Pour jouer à ce jeu sur ton ordinateur local, suis ces étapes :
 
 ### 1️⃣ Cloner le dépôt : 
 ```bash
-   git clone https://github.com/ArthurGenest/mastermind-c.git
+git clone https://github.com/ArthurGenest/mastermind-c.git
 ```
 ### 2️⃣ Navigue vers le répertoire du projet :
 cd mastermind-c
@@ -77,9 +77,7 @@ Si tu souhaites contribuer au projet, suis ces étapes :
 
 ### 1️⃣ Clone ton fork sur ton ordinateur :
 **Fork** le dépôt sur GitHub.
-```bash
-git clone https://github.com/TON-NOM-UTILISATEUR/mastermind-c.git
-```
+
 ### 2️⃣ Crée une nouvelle branche
 git checkout -b nom-de-ta-branche
 
